@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
+
 * {
   box-sizing: border-box;
 }
@@ -16,7 +16,8 @@ body {
   height: 100vh;
   float: left;
   background-color: #EF476F;
-  color: #FFD166;display: flex;
+  color: #FFD166;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -36,7 +37,8 @@ body {
     height: 50vh;
     float: left;
     background-color: #EF476F;
-    color: #FFD166;display: flex;
+    color: #FFD166;
+    display: flex;
     justify-content: center;
     align-items: center;
   }
