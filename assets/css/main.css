@@ -180,7 +180,7 @@ em, i {
 
 p {
   margin: 0 0 2rem 0;
-  color: #000000;
+  color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -325,6 +325,14 @@ hr.major {
   hr.major {
     margin: 3rem 0;
   }
+}
+
+.content p, .content strong {
+  color: #000000;
+}
+
+.content header > p {
+  color: white;
 }
 
 /* Row */
