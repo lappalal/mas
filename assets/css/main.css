@@ -1768,7 +1768,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-  background-color: #5F1B50;
+  background-color: #3784AF;
   -webkit-box-shadow: none;
           box-shadow: none;
   color: white !important;
@@ -1779,7 +1779,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #a42288;
+  background-color: #5aabd9;
 }
 
 input[type="submit"].primary:active,
@@ -1787,7 +1787,7 @@ input[type="reset"].primary:active,
 input[type="button"].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #4e1d43;
+  background-color: #3e7899;
 }
 
 @media screen and (max-width: 736px) {
@@ -2046,16 +2046,16 @@ input[type="radio"] + label:before {
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   content: '\f00c';
-  background-color: #5F1B50;
-  border-color: #5F1B50;
+  background-color: #3784AF;
+  border-color: #3784AF;
   color: white;
 }
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color: #5F1B50;
-  -webkit-box-shadow: 0 0 0 1px #5F1B50;
-          box-shadow: 0 0 0 1px #5F1B50;
+  border-color: #3784AF;
+  -webkit-box-shadow: 0 0 0 1px #3784AF;
+          box-shadow: 0 0 0 1px #3784AF;
 }
 
 input[type="checkbox"] + label:before {
@@ -2950,7 +2950,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 
 #wrapper:before {
   background-attachment: fixed;
-  background-color: #5F1B50;
+  background-color: #3784AF;
   background-position: -50% 10%;
   background-repeat: repeat-y;
   background-size: 75% auto;
@@ -3305,7 +3305,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   }
   #wrapper > section > header {
     background-attachment: fixed;
-    background-color: #5F1B50;
+    background-color: #3784AF;
     background-position: 25% 50%;
     background-repeat: repeat-y;
     background-size: 40rem auto;
