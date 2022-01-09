@@ -2951,7 +2951,6 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 #wrapper:before {
   background-attachment: fixed;
   background-color: #5F1B50;
-  background-image: url("/images/bg.svg");
   background-position: -50% 10%;
   background-repeat: repeat-y;
   background-size: 75% auto;
@@ -3307,7 +3306,6 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   #wrapper > section > header {
     background-attachment: fixed;
     background-color: #5F1B50;
-    background-image: url("/images/bg.svg");
     background-position: 25% 50%;
     background-repeat: repeat-y;
     background-size: 40rem auto;

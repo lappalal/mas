@@ -169,7 +169,7 @@
 			&:before {
 				background-attachment: fixed;
 				background-color: _palette(accent);
-				background-image: url('/images/bg.svg');
+				// background-image: url('/images/bg.svg');
 				background-position: -50% 10%;
 				background-repeat: repeat-y;
 				background-size: 75% auto;
@@ -430,7 +430,7 @@
 					> header {
 						background-attachment: fixed;
 						background-color: _palette(accent);
-						background-image: url('/images/bg.svg');
+						// background-image: url('/images/bg.svg');
 						background-position: 25% 50%;
 						background-repeat: repeat-y;
 						background-size: 40rem auto;
