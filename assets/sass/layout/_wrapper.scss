@@ -73,7 +73,8 @@
 
 								// Set width on all child elements and right-align.
 									> * {
-										width: (_size(header-width) - $pad);
+										//width: (_size(header-width) - $pad);
+										width: 100%;
 									}
 
 								// Line.

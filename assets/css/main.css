@@ -3177,7 +3177,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper > section.intro > header > * {
-  width: 20rem;
+  width: 100%;
 }
 
 #wrapper > section.intro > header:before {
@@ -3236,7 +3236,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
     width: 30rem;
   }
   #wrapper > section.intro > header > * {
-    width: 21rem;
+    width: 100%;
   }
   #wrapper > section.intro > header:before {
     margin-left: calc(50vw - 8rem);
