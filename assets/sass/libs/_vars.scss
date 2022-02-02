@@ -32,7 +32,7 @@
 		weight-bold:			600,
 		weight-extrabold:		700,
 		weight-heading:			800,
-		weight-heading-light:	600,
+		weight-heading-light:	800,
 		kerning:				0.0375em,
 		kerning-heading:		0.175em,
 		kerning-heading-alt:	-0.05em
@@ -47,7 +47,7 @@
 		border:					rgba(144,144,144,0.25),
 		border-bg:				rgba(144,144,144,0.1),
 		accent:					#3784AF,
-		accent-border:			desaturate(darken(#3784AF, 8), 30),
+		accent-border:			lighten(#3784AF, 30),
 		accent-alt:				desaturate(darken(#3784AF, 10), 20),
 		accent-bg:				transparentize (#3784AF, 0.75)
 	);
